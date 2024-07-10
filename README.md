@@ -1,2 +1,2 @@
 # React-Interview-Questions-and-Answers
-Explore comprehensive React interview questions and answers to help you prepare effectively for React developer interviews. 
+Explore comprehensive React interview questions and curated answers to help you prepare effectively for React developer interviews. This repository covers a wide range of topics including React components, state management, hooks, lifecycle methods, virtual DOM, JSX, and more. Whether you're a beginner or experienced developer, this resource aims to enhance your understanding and readiness for React technical interviews. 
