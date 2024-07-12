@@ -1,19 +1,16 @@
 | No. | Title                                                                                         |
 | --- | --------------------------------------------------------------------------------------------- |
-| 51  | What are the differences between controlled and uncontrolled components in React? <details><summary><strong><a href="#controlled-vs-uncontrolled-components" style="text-decoration: none; color: blue;" onclick="toggleAnswer('answer-51')">Show Answer</a></strong></summary> <br><div id="answer-51" style="display: none;">Answer goes here...</div> |
+| 51  | What are the differences between controlled and uncontrolled components in React? <details><summary><strong><a href="#controlled-vs-uncontrolled-components" style="text-decoration: none; color: blue;" onclick="toggleAnswer('answer-51')">Show Answer</a></strong></summary> <br><div id="answer-51" style="display: none;">| Aspect                        | Controlled Components                                   | Uncontrolled Components                                 |
+|-------------------------------|---------------------------------------------------------|---------------------------------------------------------|
+| **State Handling**            | State is managed by React (via `setState` or hooks).    | State is managed by the DOM (via `ref` or uncontrolled form inputs). |
+| **Input Handling**            | Form inputs are controlled by React using state binding.| Form inputs maintain their own state independently of React's state. |
+| **Synchronization**           | Data flow is uni-directional and synchronous.           | Data flow can be bi-directional and asynchronous due to the DOM's nature. |</div> |
 | 52  | When should you use useState instead of useEffect, and vice versa? <details><summary><strong><a href="#useState-vs-useEffect" style="text-decoration: none; color: blue;" onclick="toggleAnswer('answer-52')">Show Answer</a></strong></summary> <br><div id="answer-52" style="display: none;">Answer goes here...</div> |
 | 53  | What is the difference between React Context and Redux for state management? <details><summary><strong><a href="#react-context-vs-redux" style="text-decoration: none; color: blue;" onclick="toggleAnswer('answer-53')">Show Answer</a></strong></summary> <br><div id="answer-53" style="display: none;">Answer goes here...</div> |
 | ... | ...                                                                                           |
 
 
-function toggleAnswer(id) {
-    var answer = document.getElementById(id);
-    if (answer.style.display === 'none') {
-        answer.style.display = 'block';
-    } else {
-        answer.style.display = 'none';
-    }
-}
+
 
 
 
