@@ -21,3 +21,8 @@ Contributions are welcome! If you have React interview questions, answers, or ad
 
 ---
 **Happy coding and good luck with your React interviews!**
+# Table of Contents
+
+| No. | Title                                                          | Show Answer                                                                                                                                  |
+| --- | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | What is React?                                            | <details><summary><strong><a href="#react-overview" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
