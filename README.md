@@ -1,11 +1,30 @@
-| No. | Title                                                                                         | Show Answer                                                                                                                                            |
-| --- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 51  | What are the differences between controlled and uncontrolled components in React?             | <details><summary><strong><a href="#controlled-vs-uncontrolled-components" style="text-decoration: none; color: blue;" onclick="toggleAnswer('answer-51')">Show Answer</a></strong></summary><br><div id="answer-51" style="display: none;">Answer goes here...</div> |
+| No. | Title                                                                                         |
+| --- | --------------------------------------------------------------------------------------------- |
+| 51  | What are the differences between controlled and uncontrolled components in React?             |
+| 52  | When should you use useState instead of useEffect, and vice versa?                           |
+
+<details>
+<summary><strong>What are the differences between controlled and uncontrolled components in React?</strong></summary>
 
 <details>
 <summary><strong>Answer:</strong></summary>
+
 Answer content goes here...
 </details>
+
+</details>
+
+<details>
+<summary><strong>When should you use useState instead of useEffect, and vice versa?</strong></summary>
+
+<details>
+<summary><strong>Answer:</strong></summary>
+
+Answer content goes here...
+</details>
+
+</details>
+
 
 
 # React Interview Questions and Answers
