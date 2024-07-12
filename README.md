@@ -55,4 +55,39 @@ Contributions are welcome! If you have React interview questions, answers, or ad
 | 28  | What is the use of uncontrolled components in React?                    | <details><summary><strong><a href="#uncontrolled-components" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
 | 29  | What is the purpose of default props in React?                          | <details><summary><strong><a href="#default-props" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
 | 30  | How do you optimize performance in a React application?                 | <details><summary><strong><a href="#performance-optimization" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+## Advanced React
+
+| No. | Title                                                                 | Show Answer                                                                                                              |
+| --- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 31  | What is the context API in React?                                     | <details><summary><strong><a href="#context-api" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 32  | How do you use the context API?                                       | <details><summary><strong><a href="#use-context-api" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 33  | What are React hooks?                                                 | <details><summary><strong><a href="#react-hooks" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 34  | What is the use of useState hook?                                     | <details><summary><strong><a href="#usestate-hook" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 35  | What is the use of useEffect hook?                                    | <details><summary><strong><a href="#useeffect-hook" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 36  | How do you create custom hooks in React?                              | <details><summary><strong><a href="#custom-hooks" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 37  | What is the use of useContext hook?                                   | <details><summary><strong><a href="#usecontext-hook" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 38  | What is the use of useReducer hook?                                   | <details><summary><strong><a href="#usereducer-hook" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 39  | How do you use the useMemo hook?                                      | <details><summary><strong><a href="#usememo-hook" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 40  | What is the use of useCallback hook?                                  | <details><summary><strong><a href="#usecallback-hook" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 41  | What is the use of useRef hook?                                       | <details><summary><strong><a href="#useref-hook" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 42  | How do you handle side effects in React?                              | <details><summary><strong><a href="#side-effects-react" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 43  | What is React.lazy?                                                   | <details><summary><strong><a href="#react-lazy" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 44  | What is React.Suspense?                                               | <details><summary><strong><a href="#react-suspense" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 45  | How do you implement code splitting in React?                         | <details><summary><strong><a href="#code-splitting-react" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 46  | What is server-side rendering (SSR) in React?                         | <details><summary><strong><a href="#ssr-react" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 47  | How do you implement SSR in React?                                    | <details><summary><strong><a href="#implement-ssr-react" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 48  | What is static site generation (SSG) in React?                        | <details><summary><strong><a href="#ssg-react" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 49  | How do you implement SSG in React?                                    | <details><summary><strong><a href="#implement-ssg-react" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 50  | What is hydration in React?                                           | <details><summary><strong><a href="#hydration-react" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 51  | What is the use of React.PureComponent?                               | <details><summary><strong><a href="#pure-component-react" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 52  | What is the difference between React.PureComponent and React.Component? | <details><summary><strong><a href="#pure-vs-component-react" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 53  | How do you implement higher-order components (HOC) in React?           | <details><summary><strong><a href="#hoc-react" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 54  | What are render props?                                                 | <details><summary><strong><a href="#render-props-react" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 55  | What is the use of React.memo?                                         | <details><summary><strong><a href="#memo-react" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 56  | How do you handle asynchronous data fetching in React?                 | <details><summary><strong><a href="#async-data-fetching-react" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 57  | What is the use of the Suspense component with data fetching?          | <details><summary><strong><a href="#suspense-data-fetching-react" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 58  | How do you manage global state in a React application?                 | <details><summary><strong><a href="#global-state-react" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 59  | What are some common performance optimization techniques in React?     | <details><summary><strong><a href="#performance-optimization-react" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 60  | What is the difference between client-side and server-side rendering in React? | <details><summary><strong><a href="#client-vs-server-rendering-react" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+
 ---
