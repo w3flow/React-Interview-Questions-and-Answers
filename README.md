@@ -1,5 +1,7 @@
 | No. | Title                                                                                         |
 | --- | --------------------------------------------------------------------------------------------- |
+| 51  | | No. | Title                                                                                         |
+| --- | --------------------------------------------------------------------------------------------- |
 | 51  | What are the differences between controlled and uncontrolled components in React?             |
 | 52  | When should you use useState instead of useEffect, and vice versa?                           |
 
@@ -15,6 +17,30 @@ Answer content goes here...
 </details>
 
 <details>
+<summary><strong>When should you use useState instead of useEffect, and vice versa?</strong></summary>
+
+<details>
+<summary><strong>Answer:</strong></summary>
+
+Answer content goes here...
+</details>
+
+</details>
+           |
+| 52  |<details>
+<summary><strong>What are the differences between controlled and uncontrolled components in React?</strong></summary>
+
+<details>
+<summary><strong>Answer:</strong></summary>
+
+Answer content goes here...
+</details>
+
+</details>
+
+<details>                           |
+
+
 <summary><strong>When should you use useState instead of useEffect, and vice versa?</strong></summary>
 
 <details>
