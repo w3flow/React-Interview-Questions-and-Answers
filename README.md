@@ -1,6 +1,7 @@
 | No. | Title                                                                                         |
 | --- | --------------------------------------------------------------------------------------------- |
-| 51  | What are the differences between controlled and uncontrolled components in React? <details><summary><strong><a href="#controlled-vs-uncontrolled-components" style="text-decoration: none; color: blue;" onclick="toggleAnswer('answer-51')">Show Answer</a></strong></summary> <br><div id="answer-51" style="display: none;">answer here</div> |
+| 51  | What are the differences between controlled and uncontrolled components in React? <details><summary><strong><a href="#controlled-vs-uncontrolled-components" style="text-decoration: none; color: blue;" onclick="toggleAnswer('answer-51')">Show Answer</a></strong></summary> <br><div id="answer-51" style="display: none;"><div>answer1<div>
+<div>answer2<div></div> |
 | 52  | When should you use useState instead of useEffect, and vice versa? <details><summary><strong><a href="#useState-vs-useEffect" style="text-decoration: none; color: blue;" onclick="toggleAnswer('answer-52')">Show Answer</a></strong></summary> <br><div id="answer-52" style="display: none;">Answer goes here...</div> |
 | 53  | What is the difference between React Context and Redux for state management? <details><summary><strong><a href="#react-context-vs-redux" style="text-decoration: none; color: blue;" onclick="toggleAnswer('answer-53')">Show Answer</a></strong></summary> <br><div id="answer-53" style="display: none;">Answer goes here...</div> |
 | ... | ...                                                                                           |
