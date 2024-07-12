@@ -13,8 +13,7 @@
 | 61  | What is the difference between the children prop and the React.Children.map function in React? | <details><summary><strong><a href="#children-prop-vs-react-children-map" style="text-decoration: none; color: blue;" onclick="toggleAnswer('answer-61')">Show Answer</a></strong></summary><br><div id="answer-61" style="display: none;">Answer goes here...</div> |
 | 62  | When should you use the children prop instead of the React.Children.map function, and vice versa? | <details><summary><strong><a href="#when-to-use-children-prop-vs-react-children-map" style="text-decoration: none; color: blue;" onclick="toggleAnswer('answer-62')">Show Answer</a></strong></summary><br><div id="answer-62" style="display: none;">Answer goes here...</div> |
 | 63  | What are the differences between shallow rendering and full DOM rendering in Enzyme?          | <details><summary><strong><a href="#shallow-rendering-vs-full-dom-rendering-in-enzyme" style="text-decoration: none; color: blue;" onclick="toggleAnswer('answer-63')">Show Answer</a></strong></summary><br><div id="answer-63" style="display: none;">Answer goes here...</div> |
-| 64  | When should you use shallow rendering over full DOM rendering, and vice versa?                 | <details><summary><strong><a href="#when-to-use-shallow-rendering-vs-full-dom-rendering-in-enzyme" style="text-decoration: none; color: blue;" onclick="toggleAnswer('answer-64')">Show Answer</a></strong></summary><br><div id="answer-64" style="display: none;">Answer goes here...</div> |
-| 65  | What is the difference between Enzyme and React Testing Library for testing React components? | <details><summary><strong><a href="#enzyme-vs-react-testing-library" style
+
 
 
 # React Interview Questions and Answers
