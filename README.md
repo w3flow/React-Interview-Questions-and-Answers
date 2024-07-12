@@ -5,7 +5,7 @@
 | 53  | What is the difference between React Context and Redux for state management? <details><summary><strong><a href="#react-context-vs-redux" style="text-decoration: none; color: blue;" onclick="toggleAnswer('answer-53')">Show Answer</a></strong></summary> <br><div id="answer-53" style="display: none;">Answer goes here...</div> |
 | ... | ...                                                                                           |
 
-<script>
+
 function toggleAnswer(id) {
     var answer = document.getElementById(id);
     if (answer.style.display === 'none') {
@@ -14,7 +14,7 @@ function toggleAnswer(id) {
         answer.style.display = 'none';
     }
 }
-</script>
+
 
 
 
